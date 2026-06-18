@@ -36,7 +36,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000
+Then open `http://localhost:3001` in your browser.
 
 ## Threat Categories
 

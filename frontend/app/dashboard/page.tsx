@@ -21,6 +21,7 @@ interface ThreatResult {
   threat_color: string;
   is_anomaly: boolean;
   anomaly_score: number;
+  isolation_score: number;
   confidence: number;
   cluster: number;
   pca_x: number;

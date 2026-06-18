@@ -7,7 +7,7 @@ import {
 } from "recharts";
 import ThreatBadge from "@/components/ThreatBadge";
 
-const API = "http://localhost:8000/api";
+const API = "https://cyberimmuneai.onrender.com/api";
 
 const THREAT_COLORS: Record<string, string> = {
   "Normal Traffic": "#00ff88",
